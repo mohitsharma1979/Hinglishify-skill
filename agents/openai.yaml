@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hinglishify"
+  short_description: "Interpret documents in accurate, readable Hinglish"
+  default_prompt: "Use $hinglishify to interpret this document into accurate, easy-to-read Hinglish without changing its meaning, context, formatting, fonts, or images."
+policy:
+  allow_implicit_invocation: true
